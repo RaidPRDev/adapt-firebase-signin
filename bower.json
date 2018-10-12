@@ -1,0 +1,16 @@
+{
+  "name": "adapt-sr-firebase-signin",
+  "version": "1.0.0",
+  "framework": ">=3.0.0",
+  "homepage": "",
+  "issues": "",
+  "displayName" : "Firebase Sign In",
+  "component" : "fb-signin",
+  "description": "Firebase sign in",
+  "main": "/js/adapt-sr-firebase-signin.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
